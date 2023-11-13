@@ -4182,11 +4182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/WebApp/MyWebApp/MyWebApp.csproj",
+      "projectUniqueName": "/workspaces/WebApp/MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "/workspaces/WebApp/MyWebApp/MyWebApp.csproj",
+      "projectPath": "/workspaces/WebApp/MyWebApp.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/WebApp/MyWebApp/obj/",
+      "outputPath": "/workspaces/WebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

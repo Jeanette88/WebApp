@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZQmIKYLgubigLy4sQm1JpSsg1+ZnSwyJuqwixFIyydI/BaijpxedrjdYNTeqq1wug4UHJJF5E4E/Pna9lGxkw==",
+  "dgSpecHash": "rBmHxjyGMBeWMEIJy4EXC8m6/ZGellzGRktgHrBeMbjSK4cR4PP6Bg1CAZTMKEaMA5S7ZrUin8WMnhdmmsmsSg==",
   "success": true,
-  "projectFilePath": "/workspaces/WebApp/MyWebApp/MyWebApp.csproj",
+  "projectFilePath": "/workspaces/WebApp/MyWebApp.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",
